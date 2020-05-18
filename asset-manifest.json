@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tft-roller/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tft-roller/static/js/main.8e56b831.chunk.js",
-    "main.js.map": "/tft-roller/static/js/main.8e56b831.chunk.js.map",
+    "main.js": "/tft-roller/static/js/main.20ab0f24.chunk.js",
+    "main.js.map": "/tft-roller/static/js/main.20ab0f24.chunk.js.map",
     "runtime-main.js": "/tft-roller/static/js/runtime-main.bad47ce7.js",
     "runtime-main.js.map": "/tft-roller/static/js/runtime-main.bad47ce7.js.map",
     "static/js/2.79e2c185.chunk.js": "/tft-roller/static/js/2.79e2c185.chunk.js",
     "static/js/2.79e2c185.chunk.js.map": "/tft-roller/static/js/2.79e2c185.chunk.js.map",
     "index.html": "/tft-roller/index.html",
-    "precache-manifest.f43236dbdddf637ad510b81258f0a5cf.js": "/tft-roller/precache-manifest.f43236dbdddf637ad510b81258f0a5cf.js",
+    "precache-manifest.68b19ac526a58101d03102d5ef46b249.js": "/tft-roller/precache-manifest.68b19ac526a58101d03102d5ef46b249.js",
     "service-worker.js": "/tft-roller/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/tft-roller/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.79e2c185.chunk.js.LICENSE.txt": "/tft-roller/static/js/2.79e2c185.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bad47ce7.js",
     "static/js/2.79e2c185.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8e56b831.chunk.js"
+    "static/js/main.20ab0f24.chunk.js"
   ]
 }
