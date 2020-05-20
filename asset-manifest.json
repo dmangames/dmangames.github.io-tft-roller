@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tft-roller/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tft-roller/static/js/main.20ab0f24.chunk.js",
-    "main.js.map": "/tft-roller/static/js/main.20ab0f24.chunk.js.map",
+    "main.css": "/tft-roller/static/css/main.57432a91.chunk.css",
+    "main.js": "/tft-roller/static/js/main.ea540a9b.chunk.js",
+    "main.js.map": "/tft-roller/static/js/main.ea540a9b.chunk.js.map",
     "runtime-main.js": "/tft-roller/static/js/runtime-main.bad47ce7.js",
     "runtime-main.js.map": "/tft-roller/static/js/runtime-main.bad47ce7.js.map",
     "static/js/2.79e2c185.chunk.js": "/tft-roller/static/js/2.79e2c185.chunk.js",
     "static/js/2.79e2c185.chunk.js.map": "/tft-roller/static/js/2.79e2c185.chunk.js.map",
     "index.html": "/tft-roller/index.html",
-    "precache-manifest.68b19ac526a58101d03102d5ef46b249.js": "/tft-roller/precache-manifest.68b19ac526a58101d03102d5ef46b249.js",
+    "precache-manifest.06374f99b73e5bf4c8d08c90bb8fd12c.js": "/tft-roller/precache-manifest.06374f99b73e5bf4c8d08c90bb8fd12c.js",
     "service-worker.js": "/tft-roller/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/tft-roller/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.57432a91.chunk.css.map": "/tft-roller/static/css/main.57432a91.chunk.css.map",
     "static/js/2.79e2c185.chunk.js.LICENSE.txt": "/tft-roller/static/js/2.79e2c185.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/tft-roller/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bad47ce7.js",
     "static/js/2.79e2c185.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.20ab0f24.chunk.js"
+    "static/css/main.57432a91.chunk.css",
+    "static/js/main.ea540a9b.chunk.js"
   ]
 }

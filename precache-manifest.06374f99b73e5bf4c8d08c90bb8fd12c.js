@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eede7831aac57002ac81ed495502a1a",
+    "revision": "e9457de74376a83ecb008cc04837d131",
     "url": "/tft-roller/index.html"
   },
   {
-    "revision": "944f4a76ffc1e12848b2",
-    "url": "/tft-roller/static/css/main.5f361e03.chunk.css"
+    "revision": "c22dc124db147fea8124",
+    "url": "/tft-roller/static/css/main.57432a91.chunk.css"
   },
   {
     "revision": "79598bc806acdc8cfba0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tft-roller/static/js/2.79e2c185.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "944f4a76ffc1e12848b2",
-    "url": "/tft-roller/static/js/main.20ab0f24.chunk.js"
+    "revision": "c22dc124db147fea8124",
+    "url": "/tft-roller/static/js/main.ea540a9b.chunk.js"
   },
   {
     "revision": "e45b0f03f1daa622dd85",
