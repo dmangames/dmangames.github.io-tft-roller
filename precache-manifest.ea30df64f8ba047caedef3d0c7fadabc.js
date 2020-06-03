@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9457de74376a83ecb008cc04837d131",
+    "revision": "f315d636a4ebe7b99a8cc5ac1882e50e",
     "url": "/tft-roller/index.html"
   },
   {
-    "revision": "c22dc124db147fea8124",
-    "url": "/tft-roller/static/css/main.57432a91.chunk.css"
+    "revision": "5ba6ae830c5de74e2411",
+    "url": "/tft-roller/static/css/main.7477845e.chunk.css"
   },
   {
-    "revision": "79598bc806acdc8cfba0",
-    "url": "/tft-roller/static/js/2.79e2c185.chunk.js"
+    "revision": "4abb7ee040052866e001",
+    "url": "/tft-roller/static/js/2.59ccc260.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/tft-roller/static/js/2.79e2c185.chunk.js.LICENSE.txt"
+    "url": "/tft-roller/static/js/2.59ccc260.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c22dc124db147fea8124",
-    "url": "/tft-roller/static/js/main.ea540a9b.chunk.js"
+    "revision": "5ba6ae830c5de74e2411",
+    "url": "/tft-roller/static/js/main.00683f73.chunk.js"
   },
   {
     "revision": "e45b0f03f1daa622dd85",
